@@ -1,1 +1,1 @@
-# git-learninng-demo
+# git-learning-demo
